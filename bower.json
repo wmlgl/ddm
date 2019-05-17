@@ -1,0 +1,24 @@
+{
+  "name": "MDM",
+  "authors": [
+    "wmlgl <qq4014@126.com>"
+  ],
+  "description": "MMD Dance",
+  "main": "index.html",
+  "keywords": [
+    "MMD",
+    "Dance"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "three.js": "^0.93.0"
+  }
+}
